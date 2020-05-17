@@ -34,7 +34,7 @@ const LeftSidebar = props => (
               <p>
                 <ul>
                     <li>  <a href = "https://github.com/kadhirash/CS175" >CS 175: Enterpreneruship in Computing coding project </a> </li>
-                    <li>Mental Health Awareness web and mobile app</li>
+                    <li> < a href = "https://github.com/kadhirash/mhaa" > Mental Health Awareness web and mobile app</a></li>
                     <li>Learning how to cook</li> 
                     <li>Working out at home and going on runs</li>
                     <li>Currently reading <i>You Can Win</i> by Shiv Kera</li> 
